@@ -1,0 +1,55 @@
+*{
+    font-family: Arial;
+}
+h1{
+     background-color: gray;
+    font-family: sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+}
+
+#email{
+    margin-left: 20px;
+    font-weight: bold;
+}
+
+h2{
+    /* background-color: gray; */
+    font-family: sans-serif;
+    text-align: center;
+    font-size: xx-large;
+    padding: 10px;
+}
+body{ 
+    border-style: double;
+    border-width: 20px;
+    border-width: 5px;
+}
+
+#about{
+    margin-left: 20px;
+    font-size: 20px;
+}
+
+table{
+    margin: 25px;
+}
+
+th{
+    margin: 15px;
+    padding: 10px;
+    text-align: center;
+    background-color: burlywood;
+}
+
+td{
+        padding: 10px;
+    text-align: center;
+}
+
+li{
+    font-size: larger;
+    margin-left: 20px;
+    /* font-weight: 10px; */
+}
